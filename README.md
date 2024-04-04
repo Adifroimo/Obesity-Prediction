@@ -1,1 +1,2 @@
 # Obesity-Prediction
+Obesity poses a significant global health threat, impacting both physical and mental well-being while straining healthcare systems. Predicting obesity allows for early intervention, enabling tailored strategies to prevent its onset and promote healthier habits. Through this project, I leveraged machine learning to develop personalized approaches for obesity prevention and management, ultimately improving public health outcomes.
